@@ -4,6 +4,7 @@
   "description": "It selects whole line similar to the \"Expand Line Selection\" from keyboard shortcuts but withoud selecting beginning of the new line.",
   "version": "0.0.1",
   "publisher": "I4TL",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/I4TL/line-selector-extension"
